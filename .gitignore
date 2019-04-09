@@ -1,0 +1,6 @@
+# IntelliJ
+.idea/
+
+# OS
+.DS_Store
+node_modules/
